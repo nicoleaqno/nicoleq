@@ -1,19 +1,19 @@
 Perguntas.js
 criaCartao(
 'Português',
-'O que é susbstantivo?',
+'Qual é o prato típico mais famoso da Itália?',
 'Palavra que nomeia seres, coisas, lugares, etc.'
 )
 
 criaCartao(
 'Geografia',
-'Quais são os continentes do mundo?',
+'Qual cidade italiana é conhecida pelo Coliseu?'
 'América, Europa, Ásia, África, Oceania e Antártica'
 )
 
 criaCartao(
 'História',
-'Quem descobriu o Brasil?',
+'Quem é o artista renascentista italiano que pintou a Mona Lisa?',
 'Pedro Álvares Cabral'
 )
 criaCartao(
